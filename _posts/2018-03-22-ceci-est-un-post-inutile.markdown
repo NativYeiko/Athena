@@ -1,6 +1,7 @@
 ---
 title: Ceci est un post inutile
 date: 2018-03-22 09:05:00 Z
+Bil Gate: 'Great Job '
 ---
 
 e vais dire quelque chose d'inutile (encore une fois sweat:{} ) : je me sens inutile, et ce depuis toujours... je suis une fille que l'on peut qualifier de solitaire voire associale  sweat:{} . Et ca remonte dans l'enfance ou je me rapelle d'avoir était tjs plus ou moins seule dans la cours de récreation et puis au college je suis devenue la "tete de turc" de la classe (sympa les gosses de cet age  :( ). Au lycée comme j'étais pratiquement tjs toute seule, une prof a sortie au conseil de classe que j'étais une petite souris. Enfait je crois que j'aimerais etre une petite souris : passer partout sans etre vue, etre toute petite.. whistle:{} .
