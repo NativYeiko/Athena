@@ -38,7 +38,7 @@ li>ul,li>ol {
 h1,h2,h3,h4,h5,h6 {
  font-weight:400
 }
-page-content {
+.page-content {
  background:#1a2a6c;
  background:-webkit-linear-gradient(to top, #fdbb2d, #b21f1f, #1a2a6c);
  background:linear-gradient(to top, #fdbb2d, #b21f1f, #1a2a6c)
