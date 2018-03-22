@@ -1,6 +1,7 @@
 ---
 title: Jekyll ou Hugo
 date: 2018-03-22 13:47:00 Z
+layout: post
 ---
 
 Hugo
