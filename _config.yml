@@ -12,11 +12,11 @@ email: nativ.yeiko@gmail.com
 description: Vous retrouver ici mon projet de dévelloper mon Intélligence articiel
   dans le futur une ia complétement autonome
 <<<<<<<< HEAD
-baseurl: "" # the subpath of your site, e.g. /blog
-url: " " # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "Athena" # the subpath of your site, e.g. /blog
+url: "https://nativyeiko.github.io/Athena/" # the base hostname & protocol for your site, e.g. http://example.com
 =======
-baseurl: Athena
-url: 'https://nativyeiko.github.io/Athena/. '
+baseurl: "Athena"
+url: 'https://nativyeiko.github.io/Athena/'
 >>>>>>> master
 twitter_username: jekyllrb
 github_username: Yeiko
