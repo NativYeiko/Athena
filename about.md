@@ -3,12 +3,13 @@ title: Sapeur Pompier
 permalink: "/about/"
 layout: page
 ---
-
+<img src="_uploads/IMG_20160709_000833.png">
 La direction des services d'incendie et de secours de Vendée est située aux Oudairies sur la commune de la Roche-sur-Yon. Elle regroupe la direction départementale des Services d'incendie et de secours, le Service de santé et de secours médical ainsi que l'ensemble des groupements fonctionnels du corps départemental, gérés par des sapeurs-pompiers et des personnels administratifs et techniques.
 [SDIS 85](http://www.sdis85.com/notre-organisation/organisation-fonctionnelle/)
 Mais c'est avant tous des heures d'entrainement:
 ![IMG_20170708_112116.png](/uploads/IMG_20170708_112116.png) ![IMG_20170812_110517.png](/uploads/IMG_20170812_110517.png)
 ![IMG_20170603_171529.png](/uploads/IMG_20170603_171529.png) ![IMG_20160709_000833.png](/uploads/IMG_20160709_000833.png)
+![]()
 Mais aussi une partie opérationnel trés riche en tout point:
 des incendies
 <![sp.png](/uploads/sp.png)
