@@ -1,18 +1,9 @@
 ---
-title: About
+title: Sapeur Pompier
 permalink: "/about/"
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+La direction des services d'incendie et de secours de Vendée est située aux Oudairies sur la commune de la Roche-sur-Yon. Elle regroupe la direction départementale des Services d'incendie et de secours, le Service de santé et de secours médical ainsi que l'ensemble des groupements fonctionnels du corps départemental, gérés par des sapeurs-pompiers et des personnels administratifs et techniques.
+[SDIS 85](http://www.sdis85.com/notre-organisation/organisation-fonctionnelle/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
